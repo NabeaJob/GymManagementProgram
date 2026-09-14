@@ -170,3 +170,5 @@ def collect_payment(invoice_id):
         cursor.execute("UPDATE billing SET status = 'Paid' WHERE id = ?", (invoice_id,))
         conn.commit()
         return True, f"Invoice #{invoice_id} marked as PAID."
+    0
+
