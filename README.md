@@ -1,0 +1,1 @@
+A modern, lightweight gym management software to track memberships, schedule personal training sessions, log member attendance, and process monthly billing. Built with [Insert Tech Stack, e.g., Python & SQLite / React & Node.js].
